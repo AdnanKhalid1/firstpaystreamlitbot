@@ -6,7 +6,7 @@ from gradio_client import Client
 client = Client("adnankhd/fpfaqbotdemo")
 
 # Streamlit app
-st.title("Customer Service Chatbot")
+st.title("First Pay Customer Service Chatbot")
 st.write("Ask me anything about HBL Microfinance or FirstPay Wallet!")
 
 # Input box
